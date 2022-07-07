@@ -11,6 +11,7 @@ My name is Jacek Smoliniec. I am an environmental engineer based in Katowice, Po
 * Jira - issue tracking and project management
 * Postman - testing tool for REST API
 * Github
+* PostgreSQL
 
 **Languages**
 * HTML
@@ -31,6 +32,7 @@ My name is Jacek Smoliniec. I am an environmental engineer based in Katowice, Po
 **Blogs read**
 * testerzy.pl
 * testerka.pl
+* cherry-it.pl
 * remigiuszbednarczyk.pl
-* www.softwaretestinghelp.com
-* www.softwaretestingnews.co.uk
+* softwaretestinghelp.com
+* softwaretestingnews.co.uk
