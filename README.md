@@ -27,7 +27,7 @@ My name is Jacek Smoliniec. I am an environmental engineer based in Katowice, Po
 
 **Books**
 *	K. Zmitrowicz – “Tester oprogramowania – Przygotowanie do egzaminu z testowania oprogramowania”
-*	R. Dmiglin – „Zawód tester”
+*	R. Dmiglin – "Zawód tester”
 
 **Blogs read**
 * testerzy.pl
