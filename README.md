@@ -18,6 +18,9 @@ My name is Jacek Smoliniec. I am an environmental engineer based in Katowice, Po
 * CSS
 * JavaScript
 
+**Certificates**
+* ISTQB - No. 18536
+
 **Courses**
 *	Praktyczny kurs testowania oprogramowana (Udemy)
 *	POSTMAN – testowanie REST API (Udemy)
