@@ -45,4 +45,4 @@ My name is Jacek Smoliniec. I am an environmental engineer based in Katowice, Po
 
 **Projects**
 * [Test cases for website: przepisy.pl](https://docs.google.com/spreadsheets/d/1967nWuaq10-Ap9KfH7bZoFUh1h_4W4bJRV6MR49Ju1Y/edit?usp=sharing)
-* [Test cases gor website: stylowydwor.pl](https://docs.google.com/spreadsheets/d/1s81xPLBnlCBtSosHej9PCSw4fy36RzJ7LigOMyDFfnk/edit?usp=sharing)
+* [Test cases for website: stylowydwor.pl](https://docs.google.com/spreadsheets/d/1s81xPLBnlCBtSosHej9PCSw4fy36RzJ7LigOMyDFfnk/edit?usp=sharing)
