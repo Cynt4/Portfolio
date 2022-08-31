@@ -33,14 +33,6 @@ Hello. My name is Jacek Smoliniec. I am an environmental engineer based in Katow
 *	K. Zmitrowicz – “Tester oprogramowania – Przygotowanie do egzaminu z testowania oprogramowania”
 *	R. Dmiglin – "Zawód tester”
 
-**Blogs read**
-* testerzy.pl
-* testerka.pl
-* cherry-it.pl
-* remigiuszbednarczyk.pl
-* softwaretestinghelp.com
-* softwaretestingnews.co.uk
-
 **Bug reports**
 * [Bug report for website: drumshop.pl](https://docs.google.com/document/d/1D-zSsvAIA4Uw8S7t8RcMFdLRq8EHYUlwLEQM4pIh-pA/edit?usp=sharing)
 * [Bug report for website: klarnet.info](https://docs.google.com/document/d/1Uv8PiyyW7SSr1242pqWTfT7_sOryRd2DcM1-DLYnQiE/edit?usp=sharing)
