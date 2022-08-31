@@ -25,8 +25,8 @@ Hello. My name is Jacek Smoliniec. I am an environmental engineer based in Katow
 **Courses**
 *	Praktyczny kurs testowania oprogramowana (Udemy)
 *	POSTMAN – testowanie REST API (Udemy)
-*	JavaScript - The Complete Guide 2022 Beginner + Advanced (Udemy)
 * SQL dla początkujących - PostgreSQL (Udemy)
+*	JavaScript - The Complete Guide 2022 Beginner + Advanced (Udemy)
 *	uTest Academy
 
 **Books**
