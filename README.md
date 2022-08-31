@@ -42,9 +42,8 @@ Hello. My name is Jacek Smoliniec. I am an environmental engineer based in Katow
 * softwaretestingnews.co.uk
 
 **Bug reports**
-* [Bug report for website: klarnet.info](https://docs.google.com/document/d/1Uv8PiyyW7SSr1242pqWTfT7_sOryRd2DcM1-DLYnQiE/edit?usp=sharing)
 * [Bug report for website: drumshop.pl](https://docs.google.com/document/d/1D-zSsvAIA4Uw8S7t8RcMFdLRq8EHYUlwLEQM4pIh-pA/edit?usp=sharing)
+* [Bug report for website: klarnet.info](https://docs.google.com/document/d/1Uv8PiyyW7SSr1242pqWTfT7_sOryRd2DcM1-DLYnQiE/edit?usp=sharing)
 
 **Test cases**
-* [Test cases for website: przepisy.pl](https://docs.google.com/spreadsheets/d/1967nWuaq10-Ap9KfH7bZoFUh1h_4W4bJRV6MR49Ju1Y/edit?usp=sharing)
 * [Test cases for website: stylowydwor.pl](https://docs.google.com/spreadsheets/d/1s81xPLBnlCBtSosHej9PCSw4fy36RzJ7LigOMyDFfnk/edit?usp=sharing)
