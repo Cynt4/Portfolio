@@ -11,7 +11,7 @@ Hello. My name is Jacek Smoliniec. I have a degree in Environmental Engineering 
 * Jira - issue tracking and project management
 * Confluence - team workspace
 * Postman - testing tool for REST API
-* Jenkins - continuous integration tool
+* Jenkins - CI/CD tool
 * Github
 * PostgreSQL
 
