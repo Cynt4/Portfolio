@@ -7,7 +7,7 @@ Hello. My name is Jacek Smoliniec. Currently I am studying Quality Assurance in 
 **Tools**
 * PicPick - screen capture software
 * ShareX - screen recording software
-* TestLink - test management system
+* TestLink, Zephyr (JIRA) - test management system
 * Jira - issue tracking and project management
 * Confluence - team workspace
 * Postman - testing tool for REST API
@@ -16,6 +16,7 @@ Hello. My name is Jacek Smoliniec. Currently I am studying Quality Assurance in 
 * PostgreSQL
 
 **Languages**
+* Java
 * HTML
 * CSS
 * JavaScript
