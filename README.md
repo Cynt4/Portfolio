@@ -42,4 +42,5 @@ Hello. My name is Jacek Smoliniec. Currently I am studying Quality Assurance in 
 * [Bug report for website: klarnet.info](https://docs.google.com/document/d/1Uv8PiyyW7SSr1242pqWTfT7_sOryRd2DcM1-DLYnQiE/edit?usp=sharing)
 
 **Test cases**
-* [Test cases for website: stylowydwor.pl](https://docs.google.com/spreadsheets/d/1s81xPLBnlCBtSosHej9PCSw4fy36RzJ7LigOMyDFfnk/edit?usp=sharing)
+* [Test cases for website meczyki.pl](https://docs.google.com/spreadsheets/d/1KyhAugRykPhrn0un3EHkCPYWtIP28BQrzYSwiknbKlM/edit#gid=0) [PL]
+* [Test cases for website: stylowydwor.pl](https://docs.google.com/spreadsheets/d/1s81xPLBnlCBtSosHej9PCSw4fy36RzJ7LigOMyDFfnk/edit?usp=sharing) [PL]
