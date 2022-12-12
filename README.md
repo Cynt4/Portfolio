@@ -5,15 +5,16 @@
 Hello. My name is Jacek Smoliniec. Currently I am studying Quality Assurance in AGH in Kraków and I'm based in Katowice, Poland. Since May 2022 I started a journey to become a Software Tester. This career seems to be perfectly suited for my best capabilities - diligence, meticulousness, minuteness. This portfolio is going to be the set of my skills and experiences that I've achieved in order to get a junior position in Software Testing.
 
 **Tools**
-* PicPick - screen capture software
-* ShareX - screen recording software
 * TestLink, Zephyr (JIRA) - test management system
 * Jira - issue tracking and project management
 * Confluence - team workspace
 * Postman - testing tool for REST API
 * Jenkins - CI/CD tool
-* Github
-* PostgreSQL
+* Github, GitLab - Git repositories
+* PostgreSQL = relational database system
+* IntelliJ - Java IDE
+* Visual Studio Code - source code editor
+* PicPick, ShareX, Charles Proxy - attachment tools
 
 **Languages**
 * Java
