@@ -14,6 +14,8 @@ Hello. My name is Jacek Smoliniec. Currently I am studying Quality Assurance in 
 * PostgreSQL = relational database system
 * IntelliJ - Java IDE
 * Visual Studio Code - source code editor
+* Slack - messaging app
+* Git Bash, Windows Command Prompt - terminal
 * PicPick, ShareX, Charles Proxy - attachment tools
 
 **Languages**
