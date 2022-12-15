@@ -2,7 +2,7 @@
 
 **About me**
 
-Hello. My name is Jacek Smoliniec. Currently I am studying Quality Assurance in AGH in Kraków and I'm based in Katowice, Poland. Since May 2022 I started a journey to become a Software Tester. This career seems to be perfectly suited for my best capabilities - diligence, meticulousness, minuteness. This portfolio is going to be the set of my skills and experiences that I've achieved in order to get a junior position in Software Testing.
+Hello. My name is Jacek Smoliniec. Currently I am studying Quality Assurance in AGH in Kraków and I'm based in Katowice, Poland. Since May 2022 I started a journey to become a Software Tester. This career seems to be perfectly suited for my best capabilities - diligence, meticulousness and the use of analytical thinking. This portfolio is going to be the set of my skills and experiences that I've achieved in order to get a junior position in Software Testing.
 
 **Tools**
 * TestLink, Zephyr (JIRA) - test management system
