@@ -46,3 +46,4 @@ Hello. My name is Jacek Smoliniec. Currently I am studying Quality Assurance in 
 **Test cases**
 * [Test cases for website meczyki.pl](https://docs.google.com/spreadsheets/d/1KyhAugRykPhrn0un3EHkCPYWtIP28BQrzYSwiknbKlM/edit#gid=0) [PL]
 * [Test cases for website: stylowydwor.pl](https://docs.google.com/spreadsheets/d/1s81xPLBnlCBtSosHej9PCSw4fy36RzJ7LigOMyDFfnk/edit?usp=sharing) [PL]
+* [Test cases for webiste: modoyoga.com](https://docs.google.com/spreadsheets/d/16Wx92SIjIAPG5unPvHlPVGaYlO1Y8NNq0YhZj3QJ6dw/edit?usp=sharing) [EN]
