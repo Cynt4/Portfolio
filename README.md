@@ -2,14 +2,13 @@
 
 **About me**
 
-Hello. My name is Jacek Smoliniec. Currently I am studying Quality Assurance in AGH in Kraków and I'm based in Katowice, Poland. Since May 2022 I started a journey to become a Software Tester. This career seems to be perfectly suited for my best capabilities - diligence, meticulousness and the use of analytical thinking. This portfolio is going to be the set of my skills and experiences that I've achieved in order to get a junior position in Software Testing.
+Hello there. My name is Jacek Smoliniec I live in Katowice, Poland and I'm becoming a software tester. I started the journey of software testing in May 2022 and since then I learned everything that is needed to work as a software tester and I'm testing in crowdtesting platforms especially on UTest. I also study Quality Assurance in AGH University of Science and Technology in Krakow. I'm experienced in working with test management systems, project management systems, linux and windows terminals, as well as attachment tools and non-functional testing tools. I'm also experienced in creating test scenarios, writing and executing test cases and writing high quality bug reports. This portfolio is the set of skills and experiences that I've achieved in order to get a junior position in Software Testing.
 
 **Tools**
-* TestLink, Zephyr (JIRA) - test management system
+* TestLink, RTM (JIRA) - test management system
 * Jira - issue tracking and project management
 * Confluence - team workspace
 * Postman - testing tool for REST API
-* Jenkins - CI/CD tool
 * Github, GitLab - Git repositories
 * PostgreSQL = relational database system
 * IntelliJ - Java IDE
@@ -17,6 +16,7 @@ Hello. My name is Jacek Smoliniec. Currently I am studying Quality Assurance in 
 * Slack - messaging app
 * Git Bash, Windows Command Prompt - terminal
 * PicPick, ShareX, Charles Proxy - attachment tools
+* OWASP ZAP, JMeter - non-functional testing tools
 
 **Languages**
 * Java
@@ -37,7 +37,7 @@ Hello. My name is Jacek Smoliniec. Currently I am studying Quality Assurance in 
 
 **Books**
 *	K. Zmitrowicz – “Tester oprogramowania – Przygotowanie do egzaminu z testowania oprogramowania”
-*	R. Dmiglin – "Zawód tester”
+*	R. Smilgin – "Zawód tester”
 
 **Bug reports**
 * [Bug report for website: drumshop.pl](https://docs.google.com/document/d/1D-zSsvAIA4Uw8S7t8RcMFdLRq8EHYUlwLEQM4pIh-pA/edit?usp=sharing)
