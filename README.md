@@ -10,7 +10,7 @@ Hello there. My name is Jacek Smoliniec I live in Katowice, Poland and I'm worki
 * Confluence - team workspace
 * Postman - testing tool for REST API
 * Github, GitLab - Git repositories
-* PostgreSQL = relational database system
+* PostgreSQL - relational database system
 * IntelliJ - Java IDE
 * Visual Studio Code - source code editor
 * Slack - messaging app
