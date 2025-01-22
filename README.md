@@ -5,7 +5,7 @@
 Hello there. My name is Jacek Smoliniec I live in Katowice, Poland and I'm working as a software tester. I started the journey of software testing in May 2022 and since then I learned everything that is needed to work as a software tester and I'm testing in crowdtesting platforms especially on UTest. I also study Quality Assurance in AGH University of Science and Technology in Krakow. I'm experienced in working with test management systems, project management systems, linux and windows terminals, as well as attachment tools and non-functional testing tools. I'm also experienced in creating test scenarios, writing and executing test cases and writing high quality bug reports. This portfolio is the set of skills and experiences that I've achieved in order to get a junior position in Software Testing.
 
 **Tools**
-* TestLink, RTM (JIRA) - test management system
+* Requirements and Test Management for Jira (RTM) - test management system
 * Jira - issue tracking and project management
 * Confluence - team workspace
 * Postman - testing tool for REST API
